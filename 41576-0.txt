@@ -1,37 +1,4 @@
-The Project Gutenberg EBook of Harper's New Monthly Magazine, No.
-XI.--April, 1851--Vol. II., by Various
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Harper's New Monthly Magazine, No. XI.--April, 1851--Vol. II.
-
-Author: Various
-
-Release Date: December 7, 2012 [EBook #41576]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK HARPER'S NEW MONTHLY ***
-
-
-
-
-Produced by Wayne Hammond, David Kline, and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 41576 ***
 
 HARPER'S
 
@@ -180,7 +147,7 @@ surrounds them with the light of his radiant imagination. He exalts and
 glorifies the actual, without losing it in the clouds of a vaporous
 ideal. Refined and fastidious in feeling, he retains his sympathy with
 the most homely realities of life, chuckles over the luscious comforts
-of a Dutch menage, and professes no philosophical indifference to the
+of a Dutch ménage, and professes no philosophical indifference to the
 savor of smoking venison in an Indian lodge. With the curious felicity
 of his style, he uses no strange and far-fetched words. Its charm
 depends on the beauty of its combinations, not on the rarity of its
@@ -778,8 +745,8 @@ to cheapness it costs less per cubic foot than an ordinary barn. If used
 only for the Exhibition, and at its close returned to the contractors,
 the cost will be nine-sixteenths of a penny a foot; or, if permanently
 purchased, it will be one penny and one-twelfth. Thus: The solid
-contents are 33,000,000 cubic feet; the price if returned is L79,800, if
-retained L150,000. This simple fact, that a building of glass and iron,
+contents are 33,000,000 cubic feet; the price if returned is £79,800, if
+retained £150,000. This simple fact, that a building of glass and iron,
 covering eighteen acres, affording room for nine miles of tables, should
 have been completed in less than five months from the day when the
 contract was entered into, at a cost less than that of the humblest
@@ -951,7 +918,7 @@ clear water beyond.
 
 "Throughout the night the wind blew a complete hurricane, and the short
 high sea was perfectly furious; lashing about in all directions with the
-madness of a maelstroem, and with a violence that, apparently, nothing
+madness of a maelström, and with a violence that, apparently, nothing
 could resist. Heavy squalls, with sharp sleet and snowstorms from the
 southward, added to the fearful tempest that was raging. It was
 impossible to see three miles ahead, the weather being so thick.
@@ -2669,7 +2636,7 @@ appreciated or comprehended by the mob; but I occasionally committed the
 mistake of taking it for granted that persons who were depreciated by
 the mob must of necessity be persons of genius.
 
-Astraea--for so she was familiarly called, at first in the way of covert
+Astræa--for so she was familiarly called, at first in the way of covert
 ridicule, but afterward from habit--was thoroughly in earnest in every
 thing she said and did. She could adapt herself to the passing humor of
 vivacity or sarcasm without any apparent effort, but her natural manner
@@ -2705,18 +2672,18 @@ in answering harmony. This feeling was entirely exempt from passion.
 Gertrude had absorbed all that was passionate and loving in my
 nature--at least, I thought so then. And the difference between them was
 so wide, that it was impossible to feel in the same way about Gertrude
-first and Astraea afterward. Simplicity, gentleness, and timidity, were
-the characteristics of Gertrude; while Astraea was proud, grand, almost
+first and Astræa afterward. Simplicity, gentleness, and timidity, were
+the characteristics of Gertrude; while Astræa was proud, grand, almost
 haughty, with a reserve which I could not fathom. If it be true that the
 individual nature can find a response only in another of a certain
 quality, then it would have been absurd to delude myself by any dreams
-of that kind about Astraea. If I had really loved Gertrude, I could not
-love Astraea. They were essentially in direct opposition to each other.
-As for Astraea, she appeared inaccessible to the weaknesses of passion;
+of that kind about Astræa. If I had really loved Gertrude, I could not
+love Astræa. They were essentially in direct opposition to each other.
+As for Astræa, she appeared inaccessible to the weaknesses of passion;
 her conversation was bold, and she selected topics that invited
 argument, but rarely awakened emotion. Energetic, lofty, and severe, her
 very bearing repelled the approaches of love. He would have been a brave
-man who should have dared to love Astraea. I wondered at her beauty,
+man who should have dared to love Astræa. I wondered at her beauty,
 which was not captivating at a glance, but full of dignity. I wondered,
 admired, listened, but was not enslaved.
 
@@ -2758,7 +2725,7 @@ There is nothing so strong as gentleness."
 
 This reply took me by surprise, and I observed, "I should hardly have
 expected that from you." I was thinking more of the unexpected admission
-of the power of gentleness from the lips of Astraea, than of the truth or
+of the power of gentleness from the lips of Astræa, than of the truth or
 depth of the remark.
 
 "Do you mean that as a compliment?" she inquired.
@@ -2792,7 +2759,7 @@ upon them.
 "Your definition is imperfect," I ventured to say; "I do not dispute it
 as far as it goes, but it is defective in one article of faith."
 
-"Oh! I am not sent from the stars--though they have voted me Astraea--to
+"Oh! I am not sent from the stars--though they have voted me Astræa--to
 convert heathens. Pray, let us have your article of faith."
 
 "I believe implicitly in your religion," said I; "but believing so much,
@@ -2819,7 +2786,7 @@ love of this or that particular object--a love that may grow up and then
 die to the root; but the love which may be described as the poetical
 perception and permanent enjoyment of the ideal."
 
-"We must not quarrel about the word," interrupted Astraea, as if she
+"We must not quarrel about the word," interrupted Astræa, as if she
 wished to bring the conversation to a close; "we agree, possibly, in the
 thing, although I should have expressed it differently."
 
@@ -2829,16 +2796,16 @@ touch the heart. When beauty appeals to the heart it must take a
 definite shape, and the love it inspires must be addressed to that
 object alone."
 
-"We have changed our argument," observed Astraea, quickly, "and see, we
+"We have changed our argument," observed Astræa, quickly, "and see, we
 must change our seats, too, for supper is announced."
 
 I felt that I was rhapsodizing, and that, if I had gone on much further,
-I must have uttered a great deal that Astraea would have inevitably set
+I must have uttered a great deal that Astræa would have inevitably set
 down as rank nonsense. I was not sorry, therefore, that the conversation
 was broken off at that dubious point. We were both scared out of our
 subtleties by the flutter and laughter that rang through the room as
 every body rose to go to supper; and in a few moments I found myself
-seated at table with Astraea next to me, and my friend the dwarf seated
+seated at table with Astræa next to me, and my friend the dwarf seated
 exactly opposite.
 
 
@@ -2853,7 +2820,7 @@ delirium, or had, at least, fallen in with a rare God-send to exercise
 his powers of frantic ridicule upon. These things, no doubt, presented
 themselves to me in an exaggerated light, for I was a little out of
 humor with myself; and could not help contrasting the reckless levity of
-the group with the stillness of Astraea, who must have secretly despised
+the group with the stillness of Astræa, who must have secretly despised
 the companionship into which she was thrown.
 
 Whenever any body uttered a joke (and dreary and miserable jokes they
@@ -2866,7 +2833,7 @@ house would discreetly suppress by lifting her finger half way to her
 face--a signal that was understood to imply a cessation of hostilities
 when the ribaldry was supposed to be going too far.
 
-I looked at Astraea involuntarily on one of these occasions, and found
+I looked at Astræa involuntarily on one of these occasions, and found
 her eyes turned at the same instant to mine. The same thought was in
 both our minds. We both abhorred the coarseness of the scene, and felt
 the same desire to be alone. The position which thus extracted the
@@ -2883,9 +2850,9 @@ discovered something very strange, or in whom a previous doubt had just
 been confirmed. I could not at all comprehend his meaning; but I knew he
 had a meaning, and that threw me back upon myself to find out the point
 of the caricature. I attributed it to the unceremonious freedom I had
-taken with Astraea, and regretted that I had given occasion to so pitiful
-a jest; but I was by no means satisfied that there was not an _arriere
-pensee_ in the mind of the dwarf.
+taken with Astræa, and regretted that I had given occasion to so pitiful
+a jest; but I was by no means satisfied that there was not an _arrière
+pensée_ in the mind of the dwarf.
 
 The spiteful mirth went on in a rapid succession of vulgar inuendos,
 puns, and jokes. The peculiarities of one intimate friend after another
@@ -2893,7 +2860,7 @@ were anatomized with surprising skill; nobody was spared; and the finger
 of the hostess was in constant requisition to check the riot, and direct
 the scandal-hunters after fresh quarry. As none of the people who were
 thus made the subjects of unmerciful ridicule were known to me or
-Astraea, we took no part in their dissection, and imperceptibly dropped
+Astræa, we took no part in their dissection, and imperceptibly dropped
 into a conversation between ourselves.
 
 We resumed our old subject, and talked in low and earnest tones. I
@@ -2911,7 +2878,7 @@ inexplicable, and ought to have been taken as an offense from its
 grossness, still, for some unaccountable reason, it was pleasant rather
 than disagreeable to me.
 
-I forgot the little demon, however, in the delight of looking at Astraea,
+I forgot the little demon, however, in the delight of looking at Astræa,
 and listening to her. There was such a charm in her eyes, and in the
 sound of her voice, that I was soon drawn again within its powerful
 influence. As to the subject of our conversation, it was of secondary
@@ -2923,11 +2890,11 @@ following the new graces and embellishments it derived from her mode of
 treating it, than in pursuing the main topic. Again I turned to the
 dwarf, and there he was again glaring upon us with a look of transport.
 But his fiery eyes no longer leaped out upon me alone; they were moved
-quickly from Astraea to me alternately, and were lighted up with a wild
+quickly from Astræa to me alternately, and were lighted up with a wild
 satisfaction that appeared to indicate the consummation of some
 delirious passion. I never saw so much mad glee in a human face; all the
 more mad to me, since I was entirely ignorant of the source from whence
-it sprang. Once I thought Astraea observed him, but she turned aside her
+it sprang. Once I thought Astræa observed him, but she turned aside her
 head, and hastily changed the conversation, apparently to defeat his
 curiosity.
 
@@ -2936,7 +2903,7 @@ and, as if to make me feel assured that I was really the object of his
 pantomimic raptures, he squeezed my hand significantly at parting, and
 with more cordiality than he had ever shown me before.
 
-As I bade Astraea "good-night," she gave me her hand--in the presence of
+As I bade Astræa "good-night," she gave me her hand--in the presence of
 the whole family; there was nothing to conceal in her thoughts. I took
 it gently in mine, and, gazing for a moment intently into her face, in
 which I thought I perceived a slight trace of confusion, I bowed and
@@ -2951,7 +2918,7 @@ recalled her by an effort of the will, and that she did not come
 involuntarily, as of old.
 
 There was a sense of guiltiness in this. Was Gertrude fading from my
-memory?--and was Astraea concerned in the change? No, Astraea was nothing
+memory?--and was Astræa concerned in the change? No, Astræa was nothing
 to me--she was out of my way--the height on which she stood was frozen.
 What was it, then, that troubled and excited me, and blotted out the
 past?
@@ -2974,7 +2941,7 @@ in an uneasy sleep.
 I was dissatisfied with myself, without exactly knowing why. I hated the
 dwarf, yet was fascinated by the very importunity that made me hate him.
 Why should he meddle with me? Why should he exult in any diversion of my
-fortunes? What was he to me, or Astraea to either of us? I was an
+fortunes? What was he to me, or Astræa to either of us? I was an
 unchartered ship, in which no living person had an interest, drifting on
 the wide waste of waters. Why should his eyes traverse the great expanse
 to keep watch on me? Could he not let me founder on the breakers,
@@ -2987,7 +2954,7 @@ violent action on my nerves.
 IV.
 
 The next morning I went out, determined to dissipate these harassing
-reflections, and, above all things, resolved not to see Astraea. I
+reflections, and, above all things, resolved not to see Astræa. I
 wandered about half the day, perfectly sincere in my intention of
 avoiding the quarter of the town in which she lived. My mind was so much
 absorbed, that I was quite unconscious of the route I had taken, until,
@@ -3070,27 +3037,27 @@ the house. I was rather taken by surprise at this new manifestation of
 his versatile genius, and followed him mechanically, utterly forgetful
 of the wise resolution with which I had set out.
 
-We went into the drawing-room. Astraea was surrounded by a group o girls,
+We went into the drawing-room. Astræa was surrounded by a group o girls,
 some kneeling, others dispersed about her, while she was directing their
 employment on a piece of tapestry on a large frame. The _tableau_
-was striking, and I thought Astraea never looked so well Her fine figure
+was striking, and I thought Astræa never looked so well Her fine figure
 was thrown into a graceful attitude, the head slightly averted, and one
 hand pointing to the tracery, while the other was raised in the air,
 suspending some threads of the embroidery. The face that formed a circle
 round her were looking up, beaming with pleasure and presented an
-animated picture. Here was Astraea in a new aspect. I felt the injustice
+animated picture. Here was Astræa in a new aspect. I felt the injustice
 her flippant critics had committed in unsexing her, and depriving her of
 her domestic attributes.
 
 Our entrance disturbed the group, and, springing up, they took to flight
 like a flock of birds.
 
-"You see, Astraea," said the dwarf, in a sharp voice, meant to convey
+"You see, Astræa," said the dwarf, in a sharp voice, meant to convey
 sneer through a compliment, "you are not allowed to be useful in this
 world. You are invaded at all your weak points: the force of you
 attraction will not suffer you to enjoy even your needle in private."
 
-"A truce, sir, to this folly!" exclaimed Astraea, turning from him an
+"A truce, sir, to this folly!" exclaimed Astræa, turning from him an
 advancing to meet me.
 
  The dwarf twirled painfully on his chair, as if the scorn had taken
@@ -3102,11 +3069,11 @@ have acted more completely in concert.
 our merriment of last night?"
 
  "Merriment?" interposed Mephistophiles; "Good! _Your_ merriment
-You and Astraea were like dull citizens yawning over a comedy, which we
+You and Astræa were like dull citizens yawning over a comedy, which we
 were fools enough to act for you. When next we play in that fashion may
 we have a livelier audience."
 
- "The reproach, I am afraid, is just," I observed, looking at Astraea.
+ "The reproach, I am afraid, is just," I observed, looking at Astræa.
 But she was not disposed to give the vantage ground to Mephistophiles.
 "I hope next time you may have an audience more to your liking," she
 observed; "tastes differ, you know, in these matters."
@@ -3114,14 +3081,14 @@ observed; "tastes differ, you know, in these matters."
 "Yes, that's quite true," returned the dwarf, dryly; "but _your_
 tastes, it seems agree wonderfully."
 
-Thus Astraea and I were coupled and cast together by the mime, who
+Thus Astræa and I were coupled and cast together by the mime, who
 evidently took a vindictive delight in committing us to embarrassments
 of that kind. To have attempted to extricate ourselves would probably
 have only drawn fresh imputations upon us; so we let it pass.
 
 Every body has observed what important events sometimes take their
 spring in trifles. The destiny of a life is not unfrequently determined
-by an accident. I felt that there was something due to Astraea or the
+by an accident. I felt that there was something due to Astræa or the
 freedom to which she was exposed on my account. Yet it was an
 exceedingly awkward subject to touch upon. The very consciousness of
 this awkwardness produced or suggested other feelings that involved me in
@@ -3144,7 +3111,7 @@ This was a "palpable hit," and I apprehended that it would rouse the
 dwarf to a fierce rejoinder. But he had left the room, and we were
 alone.
 
-There was a pause; and Astraea, who had more courage under the
+There was a pause; and Astræa, who had more courage under the
 embarrassment than I could command, was the first to speak. "They
 mistake me," she said slowly; "it has been my misfortune all my life to
 be misunderstood. Perhaps the error is in myself. Possibly my own nature
@@ -3155,7 +3122,7 @@ must be some original willfulness of my nature, that makes me seem too
 proud to the proud, and too condescending to the humble; but certain it
 is that both equally mistake me."
 
-"_I_ do not mistake you, Astraea," I cried, startled by the humility
+"_I_ do not mistake you, Astræa," I cried, startled by the humility
 of her confession.
 
 "I feel you do not," she answered.
@@ -3173,7 +3140,7 @@ my feelings must be touched before the mere woman's nature is awakened.
 They who do not know me think--"
 
 "That you are insensible to that touch," said I, supplying the
-unfinished sentence; "they libel you, Astraea! Achilles had only one
+unfinished sentence; "they libel you, Astræa! Achilles had only one
 vulnerable spot, but that was fatal. Protected in all else, you are
 defenseless on one point, and when that is struck your whole nature is
 subjugated. Do I describe you truly? When the woman is awakened, the
@@ -3194,7 +3161,7 @@ temperament eager and easily chilled; and it was natural enough that
 people who could not move your sympathies should think that your heart
 was dead or callous. Yet there it was, watching for the being who was
 one day to call up its idolatry--for it is not love that will constitute
-your happiness, Astraea--it must be idolatry. It is that for which you
+your happiness, Astræa--it must be idolatry. It is that for which you
 live--to relinquish yourself for another. All is darkness and probation
 with you till she who now inspires so much worship to which she is
 indifferent, shall herself become the worshiper. It is the instinct of
@@ -3202,10 +3169,10 @@ your nature, the secret of the enigma, which makes you seem exactly the
 opposite of what you are."
 
 I might have run on I know not to what excess, for I felt my eloquence
-kindling and rising to an extravagant height, when I perceived Astraea
+kindling and rising to an extravagant height, when I perceived Astræa
 change color and avert her eyes.
 
-"Have I offended you, Astraea?" I inquired.
+"Have I offended you, Astræa?" I inquired.
 
 "Offended me?" she answered; "no, you have done me a service. You have
 shown me the error of my life--the folly and delusion of hoping for a
@@ -3222,7 +3189,7 @@ droops its jaded wings and sinks, but it makes land at last."
 your convictions. You do not think it a dream--you rely confidently on
 the hope that the time will come--"
 
-"The thought is madness," interrupted Astraea, quickly;
+"The thought is madness," interrupted Astræa, quickly;
 "no--no--no--there is no such hope for me. Do not misconceive me. You
 have read my nature as clearly as if the volume of my whole life to its
 inmost thoughts were laid open before you. But the dream is over. It
@@ -3242,7 +3209,7 @@ demanded, in a voice that conveyed more than it expressed in words.
 athletic; but wanting in the sympathy that alone wins the heart of
 woman."
 
-"Astraea," I replied, "your imagination has pictured an ideal which I
+"Astræa," I replied, "your imagination has pictured an ideal which I
 fear you will never find realized."
 
 "I _have_ found it!" she cried, betrayed into a transport of
@@ -3251,20 +3218,20 @@ to God I had never found it!"
 
 Her head drooped--it touched my shoulder; my arm pressed her waist--I
 was ignorant of it; a haze swam before my eyes. Tumultuous sensations
-beat audibly at my heart. Astraea, the haughty beauty--the intellectual,
-proud Astraea--where was her dominant power--her lofty self-possession
+beat audibly at my heart. Astræa, the haughty beauty--the intellectual,
+proud Astræa--where was her dominant power--her lofty self-possession
 now? Subdued, bowed down by emotion, the strength of her will seemed to
 pass from her to me, reversing our positions, and placing in my hands
 the ascendency she had so lately wielded. The air seemed to palpitate
 with these new and agitating feelings. I made an effort to control
 myself and speak, but could only pronounce her name
 
-"Astraea!"
+"Astræa!"
 
 There were a hundred questions in the word; but she was silent, and in
 her silence a hundred answers.
 
-"Not here, Astraea," I cried; "we shall be more free to speak
+"Not here, Astræa," I cried; "we shall be more free to speak
 elsewhere--away from those vacant eyes through which no hearts find
 utterance for us. One word, and I will be still--one word--"
 
@@ -3525,7 +3492,7 @@ hurrying past thee.
 
 After his last unsuccessful application, I next saw the dispirited
 little fellow turn down a small, little-frequented street, and, with the
-intention of meeting and speaking to him, I made a short _detour_, soon
+intention of meeting and speaking to him, I made a short _détour_, soon
 gaining the opposite end of the street which I had seen him enter. The
 buildings consisted entirely of warehouses, which were all closed for
 the night; and knowing that he could scarcely have entered one of them,
@@ -3579,7 +3546,7 @@ bread--a wanderer in the streets.
 THE HOUSEHOLD OF SIR THO^S. MORE.
 
 
-LIBELLUS A MARGARETA MORE, QUINDECIM ANNOS NATA, CHELSEIAE INCEPTVS.
+LIBELLUS A MARGARETA MORE, QUINDECIM ANNOS NATA, CHELSEIÆ INCEPTVS.
 
        *       *       *       *       *
 
@@ -3915,7 +3882,7 @@ improvement of y^e circumstance. Taking Cecy on his knee that evening
 atonement and mediation for sin, and who it was that bare our sins for
 us on the tree. 'Tis thus he turns y^e daylie accidents of our quiet
 lives into lessons of deepe import, not pedanticallie delivered, ex
-cathedra, but welling forthe from a full and fresh mind.
+cathedrâ, but welling forthe from a full and fresh mind.
 
 This morn I had risen before dawn, being minded to meditate on sundrie
 matters before Bess was up and doing, she being given to much talk
@@ -4433,7 +4400,7 @@ that he felt positive difficulty in determining what he saw to be
 unreal, or, at most but an illusory revival of a former reality; and
 this difficulty he felt, even though he had in his pocket, and touched
 with his fingers, a note from Madame Roland, received in the convention
-on that very afternoon. On the other hand, the two Provencal girls were
+on that very afternoon. On the other hand, the two Provençal girls were
 assuredly by his side; and, at the sight of Melanie, upsprung anew that
 fresh young love which politics had stifled in his heart in its very
 bud. Was not uncle Jean there, moreover, with his robust form and open
@@ -4616,7 +4583,7 @@ his genius.
 
 Of low extraction--he left Poland, while young, in order to acquire
 learning. He passed some years in the Universities of Leipsic and
-Goettingen, continued his studies in the College of France, under Brisson
+Göttingen, continued his studies in the College of France, under Brisson
 and D'Aubanton; gained the friendship of Buffon; visited the Alps and
 the Apennines; and, finally, returned to his native land, stored with
 rich and varied learning.
@@ -6076,7 +6043,7 @@ consecrated to the Evil One. They have but one temple, dedicated to the
 god Bergaz (_beer_, source, or well, in the Chaldean, and _gaz_, light,
 in the Malagasy tongue.) To this divinity they are ardently devoted,
 and at stated periods offer him the sacrifice of a cock, as the ancient
-Greeks did to AEsculapius. So true it is that the languages and
+Greeks did to Æsculapius. So true it is that the languages and
 superstitions of all lands and ages are linked together by mysterious
 bonds, which neither time nor distance can destroy."
 
@@ -6093,7 +6060,7 @@ philosopher and his own idol namesake.
 
 After the lapse of about two years, Bergaz set out to purchase ebony at
 Cape St. Maria, in Madagascar; but a violent tempest forced the vessel
-to stop at Simpai on the Avas coast. While the crew were busy refitting
+to stop at Simpaï on the Avas coast. While the crew were busy refitting
 the ship, Bergaz started off to explore the interior of the country.
 There are no carnivorous wild beasts in Madagascar; but, there is
 abundance of game to tempt the sportsman: and Louis, with his gun on his
@@ -6142,13 +6109,13 @@ walked off lovingly together toward the palace of the latter.
 
 On their way thither, Neptune related his history to his friend. The
 powerful Radamas, sovereign of Madagascar, had concluded a treaty of
-peace with his enemy Rene. The wife of the latter, being a woman of
+peace with his enemy Réné. The wife of the latter, being a woman of
 genius, was named queen of the Anas, by an edict of Radama; and this
 lady was the sister of Neptune, ex-cook of the Dido.
 
 No sooner was she seated on the throne than she released her brother
 from his menial situation, and gave him absolute authority over the
-small province of Simpai.
+small province of Simpaï.
 
 Neptune's first act was an endeavor to manifest his gratitude, after the
 strange fashion of his people, to his protector Bergaz; and we may fancy
@@ -6156,8 +6123,8 @@ how cordial was the reception, how warm and affectionate the welcome,
 bestowed on the living benefactor, whose wooden semblance he and his
 people worshiped as a god. The grateful negro loaded him with presents,
 and sent his most skillful workmen to assist in repairing the ship.
-Probably, to this day, the god Bergaz may still be worshiped in Simpai;
-and the AEsculapian cock may still excite the wonder, and fill the
+Probably, to this day, the god Bergaz may still be worshiped in Simpaï;
+and the Æsculapian cock may still excite the wonder, and fill the
 note-books of traveling philosophers.
 
 
@@ -6173,7 +6140,7 @@ was not just then in the mood for receiving visits, or welcoming the
 return of absentees; and so the steam-packet lay fretting in the harbor,
 and rubbing her sides peevishly against the pier; while her intending
 passengers were distributed among the hotels and boarding-houses,
-venting their discontent on the good things of the table d'hote, and
+venting their discontent on the good things of the table d'hôte, and
 mounting every now and then to the garret to throw a scowling look to
 windward.
 
@@ -6215,7 +6182,7 @@ of wine upon it?"
 
 "Done, then: but hold, what's that?"
 
-"Le paquebot va partir a minuit!"
+"Le paquebot va partir à minuit!"
 
 "Hurra!" cried the young men. "The storm is not down a single breath,
 and it is pitch dark! The captain's a trump after all!"
@@ -6595,7 +6562,7 @@ from half-past eight to twelve, sometimes to one or two in the morning,
 and never later than two, as the costermongers are early risers. There
 is sometimes a good deal of drinking; some of the young girls being
 often pressed to drink, and frequently yielding to the temptation.
-From L1 to L7 is spent in drink at a hop; the youngest men or lads
+From £1 to £7 is spent in drink at a hop; the youngest men or lads
 present spend the most, especially in that act of costermonger
 politeness--"treating the gals." The music is always a fiddle, sometimes
 with the addition of a harp and a cornopean. The band is provided by the
@@ -7220,7 +7187,7 @@ church of Santa Croce have been graven beneath the holy sign her
 tombstone bore:
 
   "Ne la plaignez pas! Si vous saviez
-  Combien de peines ce tombeau l'a epargne!"
+  Combien de peines ce tombeau l'a épargné!"
 
 The brother grieved deeply for a while, but the stream of the world bore
 him onward, and its waters are the true Lethe for ordinary and even
@@ -8445,7 +8412,7 @@ perfect health. Kircher, who visited this cave, found it warm, and
 answering, in every way, the description he had of it. He saw the holes,
 heard a murmuring, hissing noise in them, and, though he owns that he
 missed seeing the serpents, it not being the season of their creeping
-out, yet he saw great numbers of their exuviae, or sloughs, and an elm
+out, yet he saw great numbers of their exuviæ, or sloughs, and an elm
 growing hard by laden with them. The discovery of this air Schlangenbad,
 was said to have been made by a leper going from Rome to some baths near
 this place, who, fortunately, losing his way, and being benighted,
@@ -9001,7 +8968,7 @@ We were aroused by a sensation like the sudden application of a hot mask
 to the countenance. As we instinctively placed a hand over our face to
 ascertain how much of the skin was peeling off, our cool informant
 announced that the furnace over against us had been opened to perform
-the _trejetage_, or ladling of the liquid _pot a feu_ from the
+the _tréjetage_, or ladling of the liquid _pot à feu_ from the
 large pots into the smaller ones. "I must premise," he said, "that
 one-third of the raw materials, as put together by our secret friend,
 are first thrown in; and when that is melted, one-third more; on that
@@ -9075,7 +9042,7 @@ glass, measuring some twelve feet by seven.
 This translucent confection is pushed upon a flat wooden platform on
 wheels--sparkling, as it touches the wood, like innumerable
 diamonds--and is then run rapidly to an oven, there to be baked or
-annealed. The bed or "sole" of this _carquese_ is heated to a
+annealed. The bed or "sole" of this _carquèse_ is heated to a
 temperature exactly equal to that of the glass; which is now so much
 cooled that you can stand within a yard or so of it without fear of
 scorching off your eyelashes. The pot out of the furnace is cooled,
@@ -9088,7 +9055,7 @@ to the moment when the sheet of glass is shut up in the oven, about five
 minutes have elapsed. The operations are repeated, until the oven is
 full of glass-plates.
 
-When eight plates are put into the _carquese_, it is closed up
+When eight plates are put into the _carquèse_, it is closed up
 hermetically; for the tiniest current of cold air would crack the glass.
 The fire is allowed to go out of its own accord, and the cooling takes
 place so gradually, that it is not completed until eight days are over.
@@ -9420,10 +9387,10 @@ deafness increased a little; but it was not enough to stand in the way
 of his employment as a laborer; he could hear the sermon in church; and
 Betsy did not mind it, so he did not. He had a good master in old Mr.
 Wilkes, a large farmer in a southern county. Mr. Wilkes paid him
-12_s._ a week all the year round, and L5 for the harvest month. For
+12_s._ a week all the year round, and £5 for the harvest month. For
 some years Banks laid by a good deal of money; so did Betsy, who was a
 housemaid at Mr. Wilkes's. When they became engaged, they had between
-them L50 laid by.
+them £50 laid by.
 
 Banks took a cottage of three rooms, with nearly half a rood of
 garden-ground. They furnished their house really well, with substantial
@@ -9438,7 +9405,7 @@ his wife brewed for him, that they might keep clear of the public-house.
 During the whole of their lives to this day (and they are now old) they
 have never bought any thing whatever without having the money in their
 hands to pay for it. If they had not the money, they no more thought of
-having the article than if it had been at the North Pole. They paid L5 a
+having the article than if it had been at the North Pole. They paid £5 a
 year for their cottage, and the poor rate has always been from 15_s._ to
 20_s._ a year. It was war-time when they married, in 1812; and the dread
 came across them now and then, of a recruiting party appearing, or of
@@ -9802,7 +9769,7 @@ assumed, being, in nine such cases out of ten, a hypocritical deceit.
 Still she, upon the whole, made a decidedly favorable impression on me,
 and I no longer so much wondered at the bigotry of unbelief manifested
 by Mrs. Davies in behalf of her apparently amiable and grateful
-protegee.
+protégée.
 
 But beyond the moral doubt thus suggested of the prisoner's guilt, my
 interviews with her utterly failed to extract any thing from her in
@@ -9897,7 +9864,7 @@ again and again urging her to confide in me, and finding warning and
 persuasion alike useless, I withdrew discomfited and angry; and withal
 as much concerned and grieved as baffled and indignant. On going out, I
 arranged with the governor that the "brother," if he again made his
-appearance, should be detained _bongre malgre_, till my arrival.
+appearance, should be detained _bongrè malgrè_, till my arrival.
 Our precaution was too late: he did not reappear; and so little notice
 had any one taken of his person, that to advertise a description of him
 with a reward for his apprehension was hopeless.
@@ -10295,7 +10262,7 @@ exceed the rhetorical skill with which he excuses himself for
 using--tooth-powder. 'Ought a philosopher,' he exclaims, 'to allow any
 thing unclean about him, especially in the mouth--the mouth, which is
 the vestibule of the soul, the gate of discourse, the portico of
-thought! Ah, but AEmilianus [the accuser of Apuleius] never opens
+thought! Ah, but Æmilianus [the accuser of Apuleius] never opens
 _his_ mouth but for slander and calumny--tooth-powder would indeed
 be unbecoming to _him_! Or, if he use any, it will not be my good
 Arabian tooth-powder, but charcoal and cinders. Ay, his teeth should be
@@ -10348,7 +10315,7 @@ it was. Why, even that plain-speaking, sensible, practical man, Metellus
 Numidicus, who was not even a philosopher, but only a Roman Censor, thus
 expressed himself in an exhortation to the People to perpetrate
 matrimony--'If, O Quirites, we could do without wives, we should all
-dispense with that subject of care (_ea molestia careremus_); but
+dispense with that subject of care (_eâ molestiâ careremus_); but
 since nature has so managed it, that we can not live with women
 comfortably, nor without them at all, let us rather provide for the
 human race than our own temporary felicity."
@@ -10388,21 +10355,21 @@ MR. CAXTON (completing his sentence.)--"Not only as regards mildness of
 temper and other household qualifications, but as regards the very
 _person_ of the object of his choice. For you evidently remembered,
 Pisistratus, the reply of Bias, when asked his opinion on marriage:
-[Greek: Etoi kalen hexeis, e aischran; kai ei kalen, hexeis koinen; ei
-de aischran hexeis poinen.]"
+[Greek: Êtoi kalên hexeis, ê aischran; kai ei kalên, hexeis koinên; ei
+dê aischran hexeis poinên.]"
 
 Pisistratus tries to look as if he had the opinion of Bias by heart, and
 nods acquiescingly.
 
 MR. CAXTON.--"That is, my dears, 'The woman you would marry is
-either handsome or ugly; if handsome, she is koine, viz., you don't have
-her to yourself; if ugly, she is poine--that is, a fury.' But, as it is
+either handsome or ugly; if handsome, she is koiné, viz., you don't have
+her to yourself; if ugly, she is poiné--that is, a fury.' But, as it is
 observed in Aulus Gellius (whence I borrow this citation), there is a
 wide interval between handsome and ugly. And thus Ennius, in his tragedy
 of _Menalippus_, uses an admirable expression to designate women of
 the proper degree of matrimonial comeliness, such as a philosopher would
 select. He calls this degree _stata forma_--a rational, mediocre
-sort of beauty, which is not liable to be either koine or poine. And
+sort of beauty, which is not liable to be either koiné or poiné. And
 Favorinus, who was a remarkably sensible man, and came from
 Provence--the male inhabitants of which district have always valued
 themselves on their knowledge of love and ladies--calls this said
@@ -10609,7 +10576,7 @@ right to gratify your foreign whims at his expense."
 
 To make up for the loss of the flax, Jackeymo resolved to convert a very
 nice bit of pasture into orchard ground, which he calculated would bring
-in L10 net per acre by the time Miss Violante was marriageable. At this,
+in £10 net per acre by the time Miss Violante was marriageable. At this,
 the Squire pished a little; but as it was quite clear that the land
 would be all the more valuable hereafter for the fruit trees, he
 consented to permit the "grass land" to be thus partially broken up.
@@ -10883,7 +10850,7 @@ the senses, it seeks to escape from the sensual into worlds of fancy,
 subtle and refined. But apart from the passions, true genius is the most
 practical of all human gifts. Like the Apollo, whom the
 Greek worshiped as its type, even Arcady is its exile, not its home.
-Soon weary of the dalliance of Tempe, its ascends to its mission--the
+Soon weary of the dalliance of Tempé, its ascends to its mission--the
 Archer of the silver bow, the guide of the car of light. Speaking more
 plainly, genius is the enthusiasm for self-improvement; it ceases or
 sleeps the moment it desists from seeking some object which it believes
@@ -11532,8 +11499,8 @@ contemplating the pad, who appeared to have fallen into a quiet doze,
 horses are very high fed and spirited; but there is no more harm in them
 than their master when one once knows their ways."
 
-  "Chi va piano, va sano,
-  E chi va sano va lontano,"
+  "Chi và piano, và sano,
+  E chi va sano và lontano,"
 
 said Riccabocca, pointing to the saddle-bags. "You go slowly, therefore
 safely; and he who goes safely may go far. You seem prepared for a
@@ -11954,7 +11921,7 @@ pleasures of the world, without any longer having to fear its raillery!"
 If the name of Horace Castillet is unspoken among those of great men--if
 it is now sunk in oblivion, shall we not blame for this the science
 which he so much lauded? Deeply did the ardent young man drink of this
-world's poisoned springs. Farewell to study, fame, and glory! AEsop,
+world's poisoned springs. Farewell to study, fame, and glory! Æsop,
 perhaps, might never have composed his Fables had orthopedia been
 invented in his time. Horace Castillet lost not only his talents, but a
 large legacy destined for him by an uncle, in order to make him amends
@@ -12337,13 +12304,13 @@ retarded by the absence of rain. Large quantities of sand have been
 thrown up, ready to take advantage of the earliest showers to wash it
 out.
 
-A bill to remove the State Capital from San Jose to Vallejo has passed
+A bill to remove the State Capital from San José to Vallejo has passed
 the Senate, but has not been acted upon in the House. A project has been
-started for a railroad from San Jose to San Francisco. The receipts into
+started for a railroad from San José to San Francisco. The receipts into
 the city treasury of San Francisco, for the quarter ending Nov. 30, were
 $426,076, and the expenditures $638,522. The total debt of the city was
 $536,493. No election for U. S. Senator had taken place. The choice will
-undoubtedly fall upon Mr. Fremont or T. Butler King. The Whigs seem
+undoubtedly fall upon Mr. Frémont or T. Butler King. The Whigs seem
 confident of success. An expedition was dispatched toward the close of
 October to explore the Colorado River from its mouth. They have been
 heard from about 30 miles up the stream, to which point they had
@@ -12354,7 +12321,7 @@ mouth of the Gila.
 
 MEXICO AND SOUTH AMERICA.
 
-Senor Munguia, the new Bishop of Michoacan, has refused to take the
+Señor Munguia, the new Bishop of Michoacan, has refused to take the
 oaths required by Government, throwing himself upon the rights and
 privileges granted to the clergy, upon the first establishment of
 Christianity in Mexico.----Great complaints are made of the inefficiency
@@ -12375,7 +12342,7 @@ with the United States.
 Hostilities have broken out between the central Government of Guatemala
 on the one hand, and the allied States of San Salvador and Honduras on
 the other. A battle took place on the 21st of January at a village
-called San Jose, when the forces of San Salvador and Honduras were
+called San José, when the forces of San Salvador and Honduras were
 totally routed, and fled in every direction, closely pursued by the
 victors. Such, at least, is the Guatemalan account, which is the only
 one that has yet reached us.
@@ -12474,7 +12441,7 @@ undoubtedly fail. The measure which he finally proposed seems almost
 ludicrous when looked upon as the sequel to the fierce controversy which
 has convulsed the kingdom, and caused the effusion of such torrents of
 ink. It contains two provisions. By the first, the provision of the
-Catholic Act, which imposes a penalty of L100 upon the assumption by
+Catholic Act, which imposes a penalty of £100 upon the assumption by
 Roman Catholic prelates of any title of existing sees in the United
 Kingdom, is to be extended, so as to include titles belonging to any
 city, district, or place in Great Britain. By the second provision, any
@@ -12536,7 +12503,7 @@ to be taken off. The Chancellor kept his project a profound secret from
 all men; no deputation could worm out of him whether he favored their
 own special views; when the proper time came, they should see what they
 should see. They did all see; and not a soul was satisfied. The surplus
-was estimated to be about L1,900,000; one million was to be devoted to
+was estimated to be about £1,900,000; one million was to be devoted to
 the payment of the National Debt--a rate which, if kept up, would
 extinguish the whole debt in somewhat less than four thousand years; the
 remainder was proposed to be so apportioned that no interest
@@ -12553,7 +12520,7 @@ In the mean time, however, it became apparent that the Budget could not
 be carried. A circumstance unimportant in itself sufficiently evinced
 this. Mr. King moved for leave to bring in a bill giving the right of
 voting in the counties, as well as in the boroughs, to all occupiers of
-tenements of the value of L10. Though this was nowise a test question,
+tenements of the value of £10. Though this was nowise a test question,
 Lord John Russell opposed it, and when the vote was taken only 52 votes
 were found for the Ministers, while for the motion there were 100. The
 apathy of their own party showed the Ministers that they could not
@@ -12580,9 +12547,9 @@ existence of the House of Peers has been ignored throughout the whole of
 these proceedings; the only point aimed at having been to secure a
 majority in the Commons.
 
-A cool attempt to swindle the treasury out of L20,000 has been made in
+A cool attempt to swindle the treasury out of £20,000 has been made in
 behalf of the estate of the late Queen Dowager. Her comfortable annuity
-of L100,000 was made payable at regular quarter-days, commencing after
+of £100,000 was made payable at regular quarter-days, commencing after
 the death of William IV. As it happened, he died ten days before the
 quarter-day, so that the queen received pay for a whole quarter for
 those ten days. She died 63 days after the last quarterly payment; and a
@@ -12702,7 +12669,7 @@ Mazzini and the growing discontent in Lombardy. Archbishop Hughes of
 this city is preaching at Rome to increasing audiences. He predicts,
 there as well as here, the speedy downfall of Protestantism, and
 prophesies that ere long it will have disappeared from the world as
-completely as the heretical sects of the Arians and the Manichaeans.
+completely as the heretical sects of the Arians and the Manichæans.
 There is apparently no doubt that the Archbishop will be raised to the
 rank of Cardinal. At the sitting of the Piedmontese Chamber of Deputies,
 in Turin, the Minister of Foreign Affairs delivered a speech on occasion
@@ -12883,10 +12850,10 @@ of publishing and selling, during five years only, his novel called
 _Martin the Foundling, or the Memoirs of a Valet de Chambre_. The work
 was already in course of publication in the _feuilleton_ of _The
 Constitutionnel_, and the purchaser's rights were confined to France. It
-was the _Mysteres de Paris_ that made the great literary name and
+was the _Mystères de Paris_ that made the great literary name and
 fortune of Eugene Sue. Previously the remuneration of his literary
 labors was much more modest. _La Salamandre_ was disposed of at 300
-dollars per volume. _The Wandering Jew_, and _Les Mysteres de Paris_,
+dollars per volume. _The Wandering Jew_, and _Les Mystères de Paris_,
 were sold at 20,000 dollars the volume: and the purchaser made 12,000 by
 the operation. In August, 1845, _The Constitutionnel_, wishing to secure
 M. Sue exclusively to itself, made with him a contract which was to last
@@ -12916,7 +12883,7 @@ engagements, undertaken under the pressure of pecuniary necessities, it
 is not to be wondered that his recent productions have been unworthy of
 his former reputation.
 
-Dr. J. F. SCHROeDER has produced a unique work on Talmudic and Rabbinic
+Dr. J. F. SCHRÖDER has produced a unique work on Talmudic and Rabbinic
 maxims and usages. As a specimen of these, we give some of the
 refinements and distinctions relating to the observance of the Sabbath:
 "Hunting is totally forbidden on the Sabbath, and since fly-catching is
@@ -12950,13 +12917,13 @@ but the hole must not be stopped up."
 CHARLES KNIGHT, the eminent publisher, in an effective pamphlet
 advocating the repeal of the paper-tax, presents some facts showing the
 bearing of that tax upon the diffusion of knowledge. He has had in
-contemplation a Supplement to the National Cyclopaedia, to consist of a
+contemplation a Supplement to the National Cyclopædia, to consist of a
 series of treatises upon Scientific, Social, and Industrial Progress, to
 extend to four volumes. To produce this as it should be done, he must
 secure the assistance of the most eminent men in every department of
-knowledge; which assistance will cost L2000. To cover the outlay he must
+knowledge; which assistance will cost £2000. To cover the outlay he must
 sell at least 25,000 copies; which will consume 6400 reams of paper, the
-duty upon which would be L880. This additional expense, adding nothing
+duty upon which would be £880. This additional expense, adding nothing
 to the value of the work, makes him hesitate to embark in the
 enterprise, If this burden were removed he might either save it in the
 original cost, or expend it in adding to the value of the work. In
@@ -12965,13 +12932,13 @@ either case he would not hesitate to carry out his design.
 ROBERT CHAMBERS shows the bearing of the same tax upon labor. His
 Miscellany of Tracts was stopped as not paying, although it had a
 regular sale of 80 000. While published it had paid a paper-tax of
-L6220. This publication, which might have been continued had it not been
-for this tax, distributed L18,000 a year in labor. He had since started
+£6220. This publication, which might have been continued had it not been
+for this tax, distributed £18,000 a year in labor. He had since started
 a similar series at three halfpence, of which, owing to the increase in
 price, only half as many were sold as the other. It is calculated that
 this tax keeps out of employment, in London alone, full 40,000 people.
 The whole value of the paper annually manufactured in the kingdom is
-estimated at L4,000,000, upon which a duty is laid of L800,000. This is
+estimated at £4,000,000, upon which a duty is laid of £800,000. This is
 levied almost entirely upon labor, the mateterial used being almost
 entirely without value.
 
@@ -13046,7 +13013,7 @@ the going and returning ray appearing one within the other. Behind the
 point of light is placed a wheel having 720 teeth, so adjusted that the
 light shines between two of the teeth, so that when the wheel is at
 rest, an eye placed behind it receives the impression of the full ray.
-When the wheel is moved so that 12.6 revolutions are made in a second,
+When the wheel is moved so that 12·6 revolutions are made in a second,
 the teeth of the wheel appear continuous, and half the light is
 obstructed. If the velocity be sufficiently accelerated all the light is
 cut off, and that rate shows the time necessary for the light to have
@@ -13087,12 +13054,12 @@ students of his social rank. Among his associates at the university were
 many whose names have since become known in the world of mind. In 1830
 he became a member of the Royal Society. In 1838, when the presidency of
 that body was resigned by the Duke of Sussex, on the ground that the
-L13,000 a year, which was granted him as a prince of the blood, was an
+£13,000 a year, which was granted him as a prince of the blood, was an
 income too limited to enable him to afford the coffee and sandwiches
-usually furnished at the _soirees_ of the Society, the Marquis of
+usually furnished at the _soirées_ of the Society, the Marquis of
 Northampton was selected to fill that place. If the selection was to be
 on the grounds of rank rather than of high scientific attainments, no
-better one could have been made. The _soirees_ which he gave drew
+better one could have been made. The _soirées_ which he gave drew
 together the rank and science of the country, and had a happy influence
 upon the scientific world. His attainments in almost every graceful
 branch of intellectual culture were highly respectable. He resigned the
@@ -13111,7 +13078,7 @@ science procured his election as a member of the Royal Society. Early in
 January a company of his friends and admirers presented him with a
 testimonial of their affectionate regard, in commemoration of the
 fiftieth year of his academic labors in the Dissenting College at
-Homerton. The sum of L2600 was raised, the interest of which was to be
+Homerton. The sum of £2600 was raised, the interest of which was to be
 applied to his benefit during his lifetime, and the principal, after his
 death, to be applied to the foundation of scholarships. This testimonial
 to his eminent merit was only in time for an honor, but too late as a
@@ -13532,7 +13499,7 @@ and a portrait of the author. The preface is highly characteristic, and
 will be read with as much interest as any of the stories. Mr. Hawthorne
 presents some details of his literary autobiography, in which he relates
 the ill success of his first adventures as an author, with irresistible
-unction and naivete. He claims to have been for a good many years the
+unction and naïvete. He claims to have been for a good many years the
 obscurest literary man in America. His stories were published in
 magazines and annuals, for a period comprising the whole of the writer's
 young manhood, without making the slightest impression on the public,
@@ -13671,7 +13638,7 @@ fattening animals so enormously; which is the merest infatuation.
 THE WAR ON HATS.
 
 Every one knows that _Punch_ has lately been knocking the modern hat
-upon the head with his playful, but powerful _baton_. War to the hat is
+upon the head with his playful, but powerful _bâton_. War to the hat is
 happily superseding, on the Continent, the rage for making war on crowns
 alone; and, indeed, we had so much rather see the military employed
 abroad in a crusade against hats than in the work of carnage, that, by
@@ -13782,7 +13749,7 @@ prologue, we will "ring up," and let the curtain rise for the drama of
 
        *       *       *       *       *
 
-  DRAMATIS PERSONAE.
+  DRAMATIS PERSONÆ.
 
   MR. MUFFLE      { _An old friend of the late husband of_
                   { MRS. YAWNLEY.
@@ -14000,7 +13967,7 @@ might, with advantage, employ their genius. Among others, he mentions
 the following:
 
 "LOUIS XIV., at Versailles, receiving from the hands of the PACHA the
-First Cup of _Cafe_ ever made in France."
+First Cup of _Café_ ever made in France."
 
 "VOLTAIRE helping FREDERIC, on the Field of Potsdam, with a Cup of
 Cho-ca."
@@ -14030,7 +13997,7 @@ Nation from Starvation, by means of his celebrated Curry-Powder."
 Oyster."
 
 "MARIE-ANTOINETTE wondering how the People could starve, when there were
-such nice little _Gateaux_ at three sous apiece."
+such nice little _Gâteaux_ at three sous apiece."
 
 "NAPOLEON Eating the Dish of Stewed Mushrooms, by which, it is said, he
 lost (in consequence of the indigestion), the Battle of Leipzig."
@@ -14045,7 +14012,7 @@ took three men to swallow it."
 "BRILLAT SAVARIN tasting the Wonderful Sauce, that was so delicious,
 that a person could eat his own father with it."
 
-"CAESAR, or DANDO, Astonishing the Natives."
+"CÆSAR, or DANDO, Astonishing the Natives."
 
 "Heroic Death of VATEL, upon hearing that the Fish had not arrived."
 
@@ -14053,7 +14020,7 @@ that a person could eat his own father with it."
 devilish good dinner for 2-1/2_d._'"
 
 As soon as our great Painters have put into living shape the above
-delicious _morceaux_, we shall be prepared to furnish them with another
+delicious _morçeaux_, we shall be prepared to furnish them with another
 course of the same choice quality.
 
 
@@ -14094,7 +14061,7 @@ regular distances, and reaching from the top of the corsage to the lower
 edge of the skirt. Loose sleeves, made open up to the elbow at the back,
 and rounded, trimmed with a double frilling of narrow velvet. Chemisette
 and full sleeves of white cambric. Bonnet of a deep lilac _velours
-epingle_. Across the centre of the front is worked a wreath in tambour
+épinglé_. Across the centre of the front is worked a wreath in tambour
 work, the edge of the front finished with a narrow fulling. The curtain
 is bordered to match the front, the interior of which is decorated with
 loops of ribbon, with _brides_ to match. Such is the costume represented
@@ -14108,7 +14075,7 @@ chest with five _noeuds papillons_, and on either side three _galons_,
 forming _revers_. Pagoda sleeves, rather short, and finished with two
 frillings decorated with _galons_; white sleeves of embroidered muslin,
 having three frillings of Valenciennes lace. Another pretty style is
-composed of _moire antique_ of a dark blue and black ground, _broche_ in
+composed of _moire antique_ of a dark blue and black ground, _broché_ in
 light blue, and trimmed with a _chenille_ lace of a dark blue color.
 Changeable, lilac, pale blue, and corn-color silks are now becoming
 fashionable for walking dresses.
@@ -14155,13 +14122,13 @@ the front of the crown, and falling upon the side of the brim.
 
 BALL DRESSES are of almost every variety of style. Narrow blondes are
 now much used for decorating ball dresses; they give a light and
-sparkling effect when arranged in narrow _ruches_ upon a dress of rich
+sparkling effect when arranged in narrow _rûches_ upon a dress of rich
 satin. Sometimes the skirt is trimmed with a single flower, upon which
 is placed five or six _papillons_ of blonde, and sometimes upon one
 skirt are four flounces, made of the same material as the dress, or of
 lace. The figure on the left, in our first plate, represents an elegant
 and elaborate style. The dress is pale amber satin; the corsage low; the
-waist long, and _a pointe; berthe_ of _point d'Alencon_; the sleeves are
+waist long, and _à pointe; berthe_ of _point d'Alençon_; the sleeves are
 short and plain, and are nearly covered by the deep _berthe_; the skirt
 is long and full, trimmed with a double row of _dentelle de laine_,
 between which are bows of broad satin ribbon. The _sortie de bal_ which
@@ -14242,360 +14209,4 @@ courts-martial."
 End of the Project Gutenberg EBook of Harper's New Monthly Magazine, No.
 XI.--April, 1851--Vol. II., by Various
 
-*** END OF THIS PROJECT GUTENBERG EBOOK HARPER'S NEW MONTHLY ***
-
-***** This file should be named 41576.txt or 41576.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/1/5/7/41576/
-
-Produced by Wayne Hammond, David Kline, and the Online
-Distributed Proofreading Team at http://www.pgdp.net
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 41576 ***
